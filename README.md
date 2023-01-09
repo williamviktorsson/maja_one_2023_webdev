@@ -20,7 +20,6 @@ console.log(test);
 ### GitHub
 
 - Skapa ett [GitHub](https://github.com/) konto med din @edu.umea.se mail.
-- Skapa ett publikt repo som du kallar **USERNAME.github.io**. byt ut USERNAME mot ditt användarnamn du nyss valt.
 
 ### Git
 
@@ -46,3 +45,43 @@ Nyckeln läggs till under settings > SSH and GPG keys på din användare på Git
 
 Ladda sedan ned Git till din dator. [Ladda ned här!](https://git-scm.com/downloads)
 
+## Fork av Github Repo
+
+- [Gå till denna länk](https://github.com/williamviktorsson/maja_one_2023_webdev) och klicka på fork repository. Döp det nya repot till **USERNAME.github.io** där USERNAME är ert användarnamn på GitHub.
+
+- Vänta ett tag och gå sedan och slå på GitHub pages under Settings/Pages genom att välja _deploy from a branch_ och välj **gh-pages** som branch.
+
+- Vänta ett tag till sen går ni till https://USERNAME.github.io så ser ni er nya hemsida.
+
+## Ladda ned GitHub Repo
+
+- Klicka på Code på ert Repo.
+- Klicka  Code igen (den gröna knappen)
+- Klicka SSH
+- Kopiera texten
+- Gå till PowerShell
+- skriv in `git clone` följt av det ni kopierade
+- Exempel: `git clone git@github.com:williamviktorsson/maja_three_2022.git`
+
+## Köra projektet
+
+- Öppna mappen i visual studio code
+- Öppna terminalen i visual studio code och skriv `npm install`
+- När installationen är klar skriver ni `npm run dev`
+
+## Er uppgift
+
+- Gör förbättringar till spelet, er clicker! Navigera till `src/routes/page.svelte` för att hitta koden.
+- I slutet av varje lektion i två veckors tid kommer ni få skriva ett inlägg i er devblog för att dokumentera vilka förbättringar ni gjort och hur ni gick tillväga för att lösa problem som uppstod.
+
+## Att blogga
+
+- Leta rätt på mappen src/lib/posts
+- Gör en fil där i som heter VAD_NI_VILL.svx
+- I denna fil kan ni skriva html, javascript, markdown.
+
+## Vad ni gör när ni fastnar
+
+- Fråga din undervisande lärare, eller en vän! :-)
+
+##
