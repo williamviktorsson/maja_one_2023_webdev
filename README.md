@@ -53,7 +53,7 @@ Ladda sedan ned Git till din dator. [Ladda ned här!](https://git-scm.com/downlo
 
 - Gå till valfri fil. t.ex README.md och gör en ändring, t.ex. att lägga till en blankrad någonstans. Spara ändringarna.
 
-- Vänta ett tag och gå sedan och slå på GitHub pages under Settings/Pages genom att välja _deploy from a branch_ och välj **gh-pages** som branch.
+- Vänta ett tag och gå sedan och slå på GitHub pages under Settings/Pages genom att välja _deploy from a branch_ och välj **gh-pages** som branch (det kan vara så att main är förvald).
 
 - Vänta ett tag till sen går ni till https://USERNAME.github.io så ser ni er nya hemsida.
 
