@@ -23,7 +23,7 @@ console.log(test);
 
 ### Git
 
-- Du kommer bli tvungen att ställa in så att din dator kan läsa och skriva till GitHub. För att göra detta behöver du generera en ssh-nyckel i PowerShell.
+- Du kommer bli tvungen att ställa in så att din dator kan läsa och skriva till GitHub. För att göra detta behöver du generera en ssh-nyckel i PowerShell. Skriv din mailaddress som du använde till kontot på GitHub. Klicka sedan enter hela vägen.
 
 ```bash
 ssh-keygen -t rsa -b 4096 -C "uname@edu.umea.se"
@@ -78,7 +78,7 @@ Ladda sedan ned Git till din dator. [Ladda ned här!](https://git-scm.com/downlo
 
 - Leta rätt på mappen src/lib/posts
 - Gör en fil där i som heter VAD_NI_VILL.svx
-- I denna fil kan ni skriva html, javascript, markdown.
+- I denna fil kan ni skriva html, javascript, markdown, css.
 
 ## Vad ni gör när ni fastnar
 
