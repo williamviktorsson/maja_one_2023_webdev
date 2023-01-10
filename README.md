@@ -49,6 +49,10 @@ Ladda sedan ned Git till din dator. [Ladda ned här!](https://git-scm.com/downlo
 
 - [Gå till denna länk](https://github.com/williamviktorsson/maja_one_2023_webdev) och klicka på fork repository. Döp det nya repot till **USERNAME.github.io** där USERNAME är ert användarnamn på GitHub.
 
+- Gå till Actions och klicka enable actions.
+
+- Gå till valfri fil. t.ex README.md och gör en ändring, t.ex. att lägga till en blankrad någonstans. Spara ändringarna.
+
 - Vänta ett tag och gå sedan och slå på GitHub pages under Settings/Pages genom att välja _deploy from a branch_ och välj **gh-pages** som branch.
 
 - Vänta ett tag till sen går ni till https://USERNAME.github.io så ser ni er nya hemsida.
