@@ -69,9 +69,10 @@ Ladda sedan ned Git till din dator. [Ladda ned här!](https://git-scm.com/downlo
 
 ## Köra projektet
 
-- Öppna mappen i visual studio code
+- Öppna mappen i visual studio code från kommandoraden där du precis klonade repot. Skriv `code USERNAME.github.io`
 - Öppna terminalen i visual studio code och skriv `npm install`
 - När installationen är klar skriver ni `npm run dev`
+- Ladda ned alla extensions som VS Code föreslår, framförallt Svelte.
 
 ## Er uppgift
 
