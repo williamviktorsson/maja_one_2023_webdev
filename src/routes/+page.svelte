@@ -15,7 +15,7 @@
   }
 </script>
 
-<h1>INFORMATION; TJENA</h1>
+<h1>INFORMATION</h1>
 
 <article>
   <header>
