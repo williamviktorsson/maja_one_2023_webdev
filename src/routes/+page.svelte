@@ -15,7 +15,7 @@
   }
 </script>
 
-<h1>INFORMATION</h1>
+<h1>INFORMATION TJENARE</h1>
 
 <article>
   <header>
