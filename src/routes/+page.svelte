@@ -15,7 +15,7 @@
   }
 </script>
 
-<h1>INFORMATION</h1>
+<h1>INFORMATION; TJENA</h1>
 
 <article>
   <header>
@@ -55,6 +55,7 @@
   </div>
   <footer>
     <div class="panelright">
+      <img src="/teknik_maja_val.png" alt="">
       <div>
         <span>Workers</span>
         <hr />
@@ -116,7 +117,7 @@
     flex-direction: column;
     place-items: center;
     place-content: center;
-    background-image: url("https://assets.bonappetit.com/photos/5ca534485e96521ff23b382b/4:3/w_3600,h_2700,c_limit/chocolate-chip-cookie.jpg");
+    background-image: url("/teknik_maja_val.png");
     background-size: cover;
     background-position: 0px -100px;
   }
